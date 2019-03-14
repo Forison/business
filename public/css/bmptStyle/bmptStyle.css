@@ -1,0 +1,657 @@
+#bodyCase{
+	width: 100%;
+	height: 100%;
+	
+	border-radius: 5px;
+	margin-bottom: 10px;
+	box-shadow: 0px 20px 80px -10px black;
+	background-color:white;
+}
+#mynavbar{
+	background-color:rgb(0,0,20);
+	box-shadow: 0px 20px 80px -10px;
+	border:0px;
+	
+}
+#brandName{
+	font-family: monospace;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px black;
+	font-weight: bolder;
+
+}
+#teq{
+	position: absolute;
+	font-family: cursive;
+	font-size: 10px;
+	color: red;
+	transform: translate(-25px,13px);
+}
+.navbar-nav{
+	color: #030159;
+	font-weight: bolder;
+	font-size: 14px;
+	margin-left: 35%;
+	margin-top: 1%;
+	
+}
+#hk{
+	color: white;
+	font-family: cursive;
+}
+.icon-bar{
+	background-color: rgb(0,0,40);
+}
+
+a:hover{
+	background-color:rgb(0,0,21);
+	color: blue;
+}
+.navbar-toggle{
+	background-color: silver;
+}
+.icon-bar{
+	background-color: white;
+}
+
+.navbar-brand:hover{
+ background-color:transparent;
+}
+
+#but1{
+
+	color: rgb(0,60,0);
+	box-shadow: 0px 1px 1px -1px silver;
+	position: fixed;
+	bottom: 0;
+	right: 5%;
+	border-radius: 100%;
+	padding-top:1.5%;
+	padding-bottom: 1.5%;
+	padding-left: 1%;
+	padding-right: 1%;
+    z-index: 1;
+    border:0;
+
+
+
+}
+#train{
+    background-color: rgb(0,0,26);
+   box-shadow: 0px 20px 80px -10px;
+   z-index: 5;
+}
+
+#form{
+
+    position: fixed;
+	bottom: 0;
+	right: 13%;
+	border-radius: 8px;
+	padding-top:1.5%;
+	padding-bottom: 1.5%;
+	padding-left: 1%;
+	padding-right: 1%;
+    z-index: 1;
+
+    background-color: transparent;
+    border:5px solid #030159;
+}
+#log{
+	transform: translate(0px,-30px);
+}
+
+#mainTitleb{
+color: black;
+}
+
+#brand{
+color: rgb(255,255,255);
+font-family:"Times New Roman",Times,serif;
+text-transform: uppercase;
+font-size: 25px;
+border-left: 5px solid rgb(0,0,255);
+border-top:  5px solid rgb(0,0,255);
+border-top-left-radius: 100%;
+border-bottom-left-radius: 100%;
+border-top-right-radius: 100%;
+padding-left: 10px;
+padding-top: 1px;
+
+margin-bottom: 3%;
+}
+#logo{
+	margin-top: 0;
+    width: 90%;
+	height: 90%;
+
+}
+#body{
+	background-color:white;
+
+}
+#nnn{
+  color: rgb(255,255,255);
+}
+#nnnn{
+  color: rgb(255,255,255);
+  border: 2px solid red;
+  border-radius: 10px;
+  margin-bottom: 4px;
+
+}
+#nnn:hover{
+
+	background-color: #00aeff;
+
+}
+#dropdownMenu1:hover{
+	background-color: #00aeff
+}
+
+#boxOne{
+	margin-top: 5%;
+	width: 100%;
+	height: 280px;
+	border:1px solid silver;
+}
+#oneText{
+	width: 100%;
+	height: 80%;
+
+}
+#section_one{
+	width: 100%;
+	
+	
+	margin-top: 70px;
+}
+#leftMan{
+	
+	height: 550px;
+	margin-top: 0;
+	border: 1px solid silver;
+	margin-bottom: 0;
+	padding: 0;
+}
+#welcomeAddress{
+	position: absolute;
+	background-color:rgb(0,0,20);
+	text-shadow: 1px  1px  black;
+	z-index: 1;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 1px;
+	padding-right: 1px;
+	transform: translate(0px,415px);
+	text-align: center;
+	color:white;
+	font-family: monospace;
+	font-weight: bolder;
+
+
+
+}
+.btn-primary{
+	background-color: rgb(0,0,255);
+	border: 0;
+	color: white;
+	box-shadow: 0px 20px 80px -10px;
+	z-index: 3;
+}
+.btn-primary:hover{
+	background-color: rgb(0,0,145);
+	color: silver;
+	font-size: 110%;
+	box-shadow: 0px 7px -8px 7px;
+	z-index: 4;
+}
+#comment{
+	overflow: hidden;
+}
+#project{
+	background-color: rgb(255,0,0);
+	color: white;
+	font-weight: bolder;
+	border: 0;
+	z-index: 2;
+	padding-bottom: 5px;
+	font-family: monospace;
+	margin-top: 10px;
+	box-shadow: 5px 5px -5px 5px;
+}
+#project:hover{
+	background-color: rgb(200,0,0);
+}
+#row{
+	margin:0;
+	padding: 0;
+}
+
+
+
+
+#haut{
+	width: 100%;
+	height: 50%;
+    border:1px solid black;
+}
+#den{
+	margin-top: 30px;
+}
+
+#bas{
+	width: 100%;
+	height: 50%;
+    border:1px solid black;
+}
+
+
+#deuz{
+	width: 100%;
+	height: 200px;
+	border:1px solid silver;
+	box-shadow:0px 7px 7px 10px silver;
+	margin-top: 15px;
+    
+}
+#gh{
+	font-size:15px;
+
+	font-weight: bolder;
+}
+
+
+#part{
+	font-size: 25px;
+}
+
+#contCont{
+	box-shadow:0px 7px 7px 10px silver;
+}
+#roro{
+	width: 100%;
+	height: 100%;
+	background-image: url(/bmptImages/bmptSeven.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+	padding-bottom: 50px;
+
+	display: block;
+	margin: 0 auto;
+}
+#roTv{
+	width: 100%;
+	height: 250px;
+	display: block;
+	margin: 0 auto;
+}
+
+#gtpLeft{
+    width: 100%;
+	height: 300px;
+    
+    margin-top: 5px;
+    box-shadow:0px 1px 1px 1px;
+    background-color: white;
+}
+
+#someYawa{
+	background-color: white;
+	color: rgb(21,0,0);
+	font-weight: bolder;
+	font-size: 20px;
+	padding-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+#but{
+	margin-left: 30%
+}
+#left{
+	width: 100%;
+	height: 100%;
+	border:1px solid silver;
+}
+#lef{
+	width: 100%;
+	height: 100%;
+	border:1px solid silver;
+}
+#right{
+	width: 100%;
+	height: 100%;
+	border:1px solid silver;
+}
+.clearfix{
+	width: 100%;
+	height: 50px;
+
+}
+#lefte{
+
+    width: 100%;
+	height: 180px;
+	
+	box-shadow: 0px 7px -10px 7px black;
+	margin-top: 5%;	
+	padding: 1%;
+}
+#icons{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	margin-top: 30px;
+}
+#righte{
+	
+    width: 100%;
+	border:1px solid silver;	
+}
+#products{
+	border-radius: 0;
+    width: 100%;
+	border:1px solid silver;	
+}
+#one{
+	
+    width: 100%;
+	height: 100%;
+	border:5px solid white;
+	border-radius: 5px;	
+	margin-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+#boxOneT{
+    margin-top: 5%;
+	width: 100%;
+	height: 100%;
+	
+	padding: 2%;	
+}
+
+#toper{
+	width: 100%;
+	height: 80%;
+
+}
+
+
+#footer{
+	padding-top: 20px;
+	padding-bottom: 2.5%;
+	background-color:rgb(0,0,10);
+}
+
+
+#training{
+width: 100%;
+
+background-image: url(bmptImages/2.jpeg);
+
+display: block;
+margin: 0 auto;
+
+
+border-radius: 10px;
+}
+#text{
+	font-size: 16px;
+	font-family:"Times New Roman",Times,serif;
+	padding-right: 3%;
+	padding-left: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+	font-weight: bolder;
+
+}
+#mafa{
+	color: red;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 100px;
+}
+#tra{
+	border-radius: 5px;
+}
+#textOne{
+	font-size: 14px;
+	font-family:"Times New Roman",Times,serif;
+	padding-right: 3%;
+	padding-left: 3%;
+
+}
+#slideHead{
+	font-size: 15.5px;
+	font-family: "Times New Roman",Times,serif;
+	color: #00aeff;
+	font-weight: bolder;
+}
+
+#textTwo	{
+	font-size: 14px;
+	font-family:monospace;
+	padding-right: 3%;
+	padding-left: 3%;
+	color: white;
+	text-align:justify-all;
+
+}
+#title{
+	font-size: 20px;
+	
+	
+}
+#mainTitle{
+	font-size: 25px;
+	color: rgb(0,0,26);
+	font-weight: bolder;
+	text-transform: uppercase;
+	font-family:monospace;
+	text-shadow: 1px 1px 1px 1px black;
+}
+#placeholder{
+	height: 450px;
+}
+#skil{
+	font-size: 12px;
+	font-family: "Times New Roman",Times,serif;
+	font-weight: bolder;
+	text-transform:capitalize;
+	text-align: center;
+	color: rgb(0,0,60);
+}
+#softFeat{
+	text-align: center;
+	font-size: 12px;
+	font-weight: bolder;
+	color: rgb(0,0,80);
+}
+#subtitle{
+	font-size: 25px;
+	color: rgb(0,0,55);
+	font-weight: bolder;
+}
+
+
+
+#contact{
+	color: silver;
+	text-align: center;
+	
+}
+#contText{
+	color: silver;
+	padding: 3%;
+	font-family: "Times New Roman",Times,serif;
+	font-size: 14px;
+
+}
+#footli li, a{
+	color: silver;
+	text-align: center;
+}
+#readOne{
+	margin-left: 10%;
+}
+#wrapServ{
+	width: 100%;
+	height: 100%;
+	
+	padding: 5%;
+}
+
+
+#icon{
+	margin-left: 40%
+
+}
+#subtititle{
+	font-weight: bolder;
+	text-align: center;
+	font-size: 14px;
+
+}
+
+#title{
+	color: rgb(0,0,80);
+}
+
+#partner{
+	font-size: 20px;
+	font-weight: bolder;
+	text-decoration: none;
+    background-color: red;
+
+}
+
+#partners{
+	font-size:11px;
+	font-weight: bolder;
+	font-family: "Times New Roman",Times,serif;
+	margin-left: 0.5%;
+
+}
+#oned{
+	border:1px solid silver;
+
+}
+.fa{
+   color: white;
+}
+.fa-facebook{
+	margin-left: 5%;
+}
+.fa-envelope{
+	color: rgb(0,0,80);
+	padding: 1.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*thi s wherte i am going to insert my style for other views template*/
+#droight{
+	width: 100%;
+	height: 100%;
+	border:5px solid black;
+	margin-top: 60px;
+}
+
+
+#gauche{
+	width: 100%;
+	height: 100%;
+		margin-top: 80px;
+	border:5px solid white;
+	padding: 5% 10% 0% 10%;
+	border-radius: 5px;
+	box-shadow: 0px 7px 7px 10px ;
+}
+#textStr{
+
+	font-size: 14.5px;
+	font-weight: bolder;
+	color: black;
+}
+#titleGH{
+	font-size:14px;
+	font-weight: bolder;
+	color: rgb(0,0,80);
+	text-shadow: 1px 1px black;
+	font-family: "Times New Roman",Times,serif;
+}
+#it{
+	color: rgb(0,0,80);
+	font-weight: bolder;
+}
+#bsf{
+    background-image: url()
+}
+#mynavbar2{
+	background-color: rgb(255,255,255);
+}
+#a:hover{
+	color: rgb(0,0,28);
+	background-color: transparent;
+}
+#a{
+	color: rgb(0,0,0);
+}
+.dropdown-menu{
+	margin-left: 25%;
+}
+#dropdownMenu1{
+	margin-top: 14.4px;
+}
+
+#newScreenTv{
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+	background-color: white;
+	box-shadow: 0px 7px -7px 10px;
+	border-radius: 50%;
+}
+#myslide{
+	background-color: rgb(50,50,50);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#head{
+	font-size: 20px;
+	color: gold;
+	text-transform: capitalize;
+	font-family: cursive;
+	text-align: center;
+	text-shadow: 1px 1px black;
+}
+#mainTitleb{
+	font-size: 40px;
+
+}
